@@ -1,8 +1,9 @@
 cyQuiz: Interactive Quiz Application 🧠
-https://img.shields.io/github/last-commit/sahilgupta969/cyQuiz?color=blue&logo=github
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Open%2520Source-%E2%9D%A4%EF%B8%8F-brightgreen
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat
+[![GitHub last commit](https://img.shields.io/github/last-commit/sahilgupta969/cyQuiz?color=blue&logo=github)](https://github.com/sahilgupta969/cyQuiz/commits/main)
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-brightgreen)](https://opensource.org)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 cyQuiz is a dynamic web-based quiz application that tests your knowledge with timed questions, instant feedback, and score tracking. Perfect for learning new topics or challenging friends!
 
@@ -27,15 +28,9 @@ https://via.placeholder.com/800x400.png?text=cyQuiz+Interface+Preview
 
 🛠️ Technologies Used
 Frontend
-https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white
-https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white
-https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black
-
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"> </p>
 Development Tools
-https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white
-https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white
-https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white
-
+<p> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code"> </p>
 🚀 Getting Started
 Prerequisites
 Modern web browser (Chrome, Firefox, Safari, Edge)
@@ -52,24 +47,9 @@ Open the application:
 
 bash
 # Simply open index.html in your browser
-Live Demo
-Experience cyQuiz Live
 
 🎨 Application Flow
-graph TD
-    A[Start Screen] --> B[Question Display]
-    B --> C[Timer Countdown]
-    B --> D[Answer Selection]
-    D --> E{Correct?}
-    E -->|Yes| F[Positive Feedback]
-    E -->|No| G[Negative Feedback]
-    F --> H[Next Question]
-    G --> H
-    H --> I{Last Question?}
-    I -->|No| B
-    I -->|Yes| J[Results Screen]
-    J --> K[Restart Quiz]
-
+![deepseek_mermaid_20250620_f92d51](https://github.com/user-attachments/assets/0425b9a4-053f-4a2e-a605-e462c8b98393)
 
 🤝 Contributing
 We welcome contributions! Please follow these steps:
@@ -93,4 +73,3 @@ If you find this project useful, please give it a ⭐️ on GitHub!
 Challenge your knowledge and have fun with cyQuiz! �‍💡
 Built with ❤️ by Sahil Gupta
 
-New chat
